@@ -1,4 +1,4 @@
-#Tiny-ImageNet Test using Pytorch
+# Tiny-ImageNet Test using Pytorch
 
 before the testing, execute download.sh file
 
